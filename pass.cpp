@@ -3,7 +3,6 @@
 #include <windows.h>
 using namespace std;
 
-
 string getpass(const char *prompt, bool show_asterisk=true)
 {
   const char BACKSPACE=8;
